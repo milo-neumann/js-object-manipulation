@@ -6,6 +6,9 @@ an array of objects where each value represents the **string length** of the cor
 ---
 
 ## sculptureListLengths Object Content
+```js
+console.log(sculptureListLengths);
+```
 
 ```json
 [

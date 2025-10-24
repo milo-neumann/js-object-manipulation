@@ -2,10 +2,8 @@
 
 This project processes `sculptureList` from `data.js` and builds `sculptureListLengths`, an array of objects with string lengths for each field.
 
-## How to run
-node sculptureScript.js
-
 ## sculptureListLengths object content:
+`json`
 [
   { name: 26, artist: 20, description: 198, url: 31, alt: 90 },
   { name: 17, artist: 16, description: 188, url: 32, alt: 91 },
@@ -20,3 +18,4 @@ node sculptureScript.js
   { name: 7, artist: 15, description: 272, url: 32, alt: 98 },
   { name: 6, artist: 10, description: 78, url: 31, alt: 92 }
 ]
+`json`

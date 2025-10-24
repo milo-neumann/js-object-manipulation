@@ -11,4 +11,4 @@ const sculptureListLengths = sculptureList.map((sculpture) => {
 });
 
 // test
-console.log('First element:', sculptureListLengths[0]);
+//console.log('First element:', sculptureListLengths[0]);
